@@ -11,8 +11,8 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/ShadowfeindX/coding-practice/"
   spec.license       = "GNU GENERAL PUBLIC LICENSE"
 
-  spec.files         = ['lib/NAME.rb']
-  spec.executables   = ['bin/NAME']
-  spec.test_files    = ['tests/test_NAME.rb']
+  spec.files         = ['lib/StringReverse.rb']
+  spec.executables   = ['bin/StringReverse']
+  spec.test_files    = ['tests/test_StringReverse.rb']
   spec.require_paths = ["lib"]
 end
