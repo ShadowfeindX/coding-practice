@@ -2,7 +2,7 @@
 
 class StringReverse
     def main(word)
-        word.reverse
+        return word.reverse
     end
 end
 

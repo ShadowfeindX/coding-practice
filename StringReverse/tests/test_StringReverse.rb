@@ -16,9 +16,8 @@ class TestStringReverse < Test::Unit::TestCase
     def test_main
         *pairs = ['thread', 'daerht'], ['project','tcejorp'], ['palindrome','emordnilap'],  ['desserts','stressed']
         pairs.each do |words|
-            print words
+            puts words
             assert_equal(words[1], @_class.main(words[0]))
         end
     end
-
 end

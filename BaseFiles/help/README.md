@@ -1,5 +1,0 @@
-#TODO List
-- [ ] 
-
-###Bonus Challenges
-- [ ] 
