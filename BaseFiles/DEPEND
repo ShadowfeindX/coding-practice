@@ -1,9 +1,0 @@
-file = __FILE__
-file.slice! 'DEPEND'
-$HOME = file
-$BUILD = file + 'build/'
-$DATA = file + 'data/'
-$HELP = file + 'help/'
-$LIBS = file + 'libs/'
-$SRC = file + 'src/'
-$TEST = file + 'test/'
