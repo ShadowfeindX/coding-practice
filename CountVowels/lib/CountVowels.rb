@@ -10,7 +10,6 @@ class CountVowels
                 vowels[v] += 1
             end
         end; vowels
-        #// your code goes here
     end
 end
 
